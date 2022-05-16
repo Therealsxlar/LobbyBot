@@ -1,0 +1,59 @@
+{
+    "BotVersion": "0.0.1",
+    "Email": "itsyourboidab777@gmail.com",
+    "Password": "Spiderman3",
+    "Platform": "Playstation",
+    "SeasonLevel": 283,
+    "Banner": "BrSeason001",
+    "CustomStatus": "",
+    "GiveFullAccessTo": "IhaveRenegade03",
+    "LogoutOnCommand": true,
+    "RestartOnCommand": true,
+
+    "InviteAllBotsOnCommand": true,
+    "AcceptAllFriendRequests": false,
+    "AcceptIncomingFriendRequest": false,
+    "InviteFriendOnFriendAdded": true,
+    "SendFriendRequestOnFriendRemove": true,
+    "JoinPartyOnInvitation": true,
+
+    "SetSkinOnCommand": true,
+    "DefaultSkin": "Ghoul Trooper",
+
+    "SetBackpackOnCommand": true,
+    "DefaultBackpack": "black shield",
+
+    "SetEmoteOnCommand": true,
+    "LetOthersStopEmote": true,
+    "EmoteAfterJoiningParty": true,
+    "EmoteName": "True Heart",
+
+    "KickMembersOnCommand": true,
+    "PromoteMembersOnCommand": true,
+    "InviteUserOnCommand": true,
+    "LeavePartyOnCommand": true,
+    "ThanksOnPromote": true,
+
+    "SendFriendRequestsOnCommand": true,
+    "RemoveOthersOnCommand": true,
+
+    "ChangeBattlePassInfoOnCommand": true,
+    "ChangeStatusOnCommand": true,
+    "ChangeBannerOnCommand": true,
+    "SetReadyOnCommand": true,
+    "SetNotReadyOnCommand": true,
+
+    "SendCurrentFriendCountOnCommand": true,
+    "SendCurrentBlockedUserCountOnCommand": true,
+    "SendShopPriceOnCommand": true,
+    "SendAssistedChallengeOnCommand": true,
+    "SendCurrentBannerNameOnCommand": true,
+    "SendIDOnCommand": true,
+    "SendCurrentPartyLeaderOnCommand": true,
+    "SendTimeBotJoinedTheLobbyOnCommand": true,
+    "SendPartyInfosOnCommand": true,
+
+    "ChangePlatformOnCommand": true,
+    "TryToRejoinOldParty": true,
+    "ReinviteOldPartyMembers": false
+}
